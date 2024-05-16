@@ -1,3 +1,5 @@
+{
+  product: [
   {
     "title": "iPhone 9",
     "description": "An apple mobile which is nothing like apple. Get yours today and experience the innovation!",
@@ -33,3 +35,5 @@
     "rating": 4.09,
     "images": "https://cdn.dummyjson.com/product-images/5/1.jpg"
   }
+  ]
+}
